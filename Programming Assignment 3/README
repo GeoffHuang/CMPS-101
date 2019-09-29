@@ -1,0 +1,16 @@
+//////////////////////////////////////
+//||  Geoff Huang (ghuang6)       ||//
+//||  CMPS 101 Professor Tantalo  ||//
+//||  Programming Assignment 3    ||//
+//////////////////////////////////////
+
+==================
+ File Submissions
+==================
+1. Sparse.java - Top level client module for pa3: reads infile data to two matrices, performs basic matrix operations, and outputs results to outfile.
+2. Matrix.java - Matrix.java is a List of Entrys (basic operations have much faster runtimes if the matrix is sparse)
+3. List.java - Doubly linked list of Objects (modified my List.java from pa1 to accomodate for Objects in the data field)
+4. MatrixTest.java - Literally Isaak's super extensive ModelMatrixTest.java that was posted on github
+5. ListTest.java - Literally Isaak's super extensive ModelListTest.java that was posted on github
+6. Makefile - Unaltered makefile for pa3 from the class website
+7. README - You're reading me right now!!

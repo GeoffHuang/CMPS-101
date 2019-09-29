@@ -1,0 +1,17 @@
+//////////////////////////////////////
+//||  Geoff Huang (ghuang6)       ||//
+//||  CMPS 101 Professor Tantalo  ||//
+//||  Programming Assignment 4    ||//
+//////////////////////////////////////
+
+==================
+ File Submissions
+==================
+1. List.c - a doubly linked List ADT that stores integers in the nodes
+2. List.h - the header file for List.c
+3. Graph.c - a Graph ADT that stores its information in the form of an adjacency List
+4. Graph.h - the header file for Graph.c
+5. GraphTest.c - Literally Isaak's super extensive ModelGraphTest.c that was posted on github
+6. FindPath.c - Top level client module for pa4: reads infile data to a Graph and finds certain specified shortest paths
+7. Makefile - Unaltered makefile for pa4 from the class website
+8. README - You're reading me right now!!

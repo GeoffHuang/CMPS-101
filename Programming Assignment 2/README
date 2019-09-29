@@ -1,0 +1,15 @@
+//////////////////////////////////////
+//||  Geoff Huang (ghuang6)       ||//
+//||  CMPS 101 Professor Tantalo  ||//
+//||  Programming Assignment 2    ||//
+//////////////////////////////////////
+
+==================
+ File Submissions
+==================
+1. Lex.c - Reads lines from a file and indirectly sorts them lexicographically into another file (by insertion sorting the indices into a List ADT)
+2. List.c - An integer doubly linked list ADT. I referenced Professor Tantalo's Queue.c as well as the List.java file I wrote for pa1
+3. List.h - Header file
+4. ListClient.c - Program that tests the functionality of List.c (written by Professor Tantalo, unaltered)
+5. Makefile - I did not alter the one provided by Professor Tantalo
+6. README.txt - You're reading me right now!

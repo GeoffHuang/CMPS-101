@@ -1,0 +1,17 @@
+//////////////////////////////////////
+//||  Geoff Huang (ghuang6)       ||//
+//||  CMPS 101 Professor Tantalo  ||//
+//||  Programming Assignment 5    ||//
+//////////////////////////////////////
+
+==================
+ File Submissions
+==================
+1. README - You're reading me right now!!
+2. Makefile - Unaltered makefile for pa5 from the class website (I fixed the typo in the comments to read pa5 instead of pa4)
+3. List.c - a doubly linked List ADT that stores integers in the nodes
+4. List.h - the header file for List.c
+5. Graph.c - a Graph ADT that stores its information in the form of an adjacency List and can run DFS
+6. Graph.h - the header file for Graph.c
+7. GraphTest.c - Literally Isaak's super extensive ModelGraphTest.c that was posted on github
+8. FindComponents.c - Top level client module for pa5: reads infile data to a Graph and finds its strongly connected components

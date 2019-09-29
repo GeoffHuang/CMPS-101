@@ -1,0 +1,33 @@
+Geoff Huang (ghuang6@ucsc.edu)
+W1247910
+CMPS 101 Professor Tantalo
+Programming Assignment 1
+
+
+==================
+ File Submissions
+==================
+
+1. List.java - An integer doubly linked list ADT written by me. I referenced Professor Tantalo's Queue.java file on the class 
+website examples. This file is used by Lex.java to sort a String array by insertion sorting the array indices into an integer List
+object. I have checked my List class functionality with the ListClient.java provided on the class website. I have also checked it 
+against the more extensive ModelListTest.java provided on Piazza by Isaak Cherdak (I passed 38/38 edge cases).
+I did include the "List concat(List L)" function, but I wrote it very fast and did not test it. To my knowledge, it is not being
+graded for this assignment though.
+
+2. ListClient.java - This is a java file you provided on the class website to test functionality of List.java. I am turning in
+exactly what I downloaded from the class website without alterations.
+
+3. Lex.java - This is the program that reads strings from one file, and sorts the strings lexicographically in another file. 
+However, it accomplishes this task indirectly by only insertion sorting the indices of the String array. I referenced FileIO.java
+on the class website to familiarize myself with file IO commands in Java.
+
+4. Makefile.txt - I am simply turning in the original makefile posted on the class website with no alterations in the hope that it 
+works, since I have no prior experience with makefiles (although I did attend lab sections and watched Issak create one from scratch).
+When I downloaded it from the class website, the automatic file extension it had me save it under was ".txt".
+
+5. Makefile - In case it is not supposed to be a text file, I also saved it with no file extension. Hopefully, one of them fulfills
+the makefile requirement properly, and you are able to run my code. I will make sure to attend future lab sections to fix my
+confusion on the makefile matter.
+
+6. README - You're reading me right now!
